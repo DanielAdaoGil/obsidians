@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "8e03ab80ce1de7ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "897aea35aebb9b63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80ef6640f5989893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Indice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00. Indice"
+            }
+          },
+          {
+            "id": "3462eddf3a1f3636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nmap -Pn -sV --script vuln www.ucall.co.ao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nmap -Pn -sV --script vuln www.ucall.co.ao"
+            }
+          },
+          {
+            "id": "1c056ce71ac754b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resposta do deephat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resposta do deephat"
+            }
+          },
+          {
+            "id": "b044b149dd095f7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nmap -Pn -sV --script vuln www.ucall.co.ao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nmap -Pn -sV --script vuln www.ucall.co.ao"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61e1e5ff5db2c80e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2f77e03e263aba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cab216089f819c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de ficheiros"
+            }
+          },
+          {
+            "id": "9da3bdf5aa6e6e10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "53e43a5e795be190",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98966439b2502ee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8337f34979cdaae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18799ea6fb86ce4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nmap -Pn -sV --script vuln www.ucall.co.ao.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "77a1ad9060251ae2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "nmap -Pn -sV --script vuln www.ucall.co.ao.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links Externos"
+            }
+          },
+          {
+            "id": "0d301246c8e950a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a57b3e0f0d37c794",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "405c7779d7a22f2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nmap -Pn -sV --script vuln www.ucall.co.ao.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Índice"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "canvas:Criar novo Canvas": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "b044b149dd095f7d",
+  "lastOpenFiles": [
+    "00. Indice.md",
+    "Detalhado.md",
+    "Resposta do deephat.md",
+    "nmap -Pn -sV --script vuln www.ucall.co.ao.md"
+  ]
+}

@@ -1,0 +1,3 @@
+agora o login na plataforma é diferente de ter cadastro;
+Fazer login na plataforma é apenas para quem já está cadastrado, e o super admin pode cadastrar os usuários que serão permitidos aceder a plataforma.(neste caso criar a conta com NickCrux (ele é criado do seguinte jeito = Crux-XXX(onde xxx é o numero que é usado para cada NickCrux de forma sequencial))+ senha). Não permita que ninguem possa aceder a plataforma sem inserir as suas credenciais
+ao imprimir a lista de membros; não apresente a coluna ativo no documento pdf, não apresente os anos de batismo e anos no clube tbm, e apresente sempre o nome completo.

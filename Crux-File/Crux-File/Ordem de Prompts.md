@@ -1,0 +1,6 @@
+Primeiro Prompt enviado ao Base 44:[[Prompt 08.09.2026]]
+Correções da Versão: [[Prompt 09.09.2026]]
+Ajustes nos logins : [[Prompt 11.09.2026]]
+Ajustes na Autenticação da Aplicação: [[Prompt 12.09.2026]]
+Ajustes na Sidebar e Criação da Secção Arquivos: [[Prompt 19.09.2026]]
+Tentativa na Criação da Área Financeira: [[Prompt 16.10.2026]]
